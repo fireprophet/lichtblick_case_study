@@ -1,0 +1,6 @@
+boto3
+pandas
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy

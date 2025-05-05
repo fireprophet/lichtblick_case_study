@@ -1,0 +1,7 @@
+"id";"productcode";"productname";"energy";"consumptiontype";"deleted";"modificationdate"
+1000;"energy";"ÖkoStrom 1";"electricity";"household_electricity";0;"2020-12-29"
+1001;"energy";"ÖkoStrom 2";"electricity";"household_electricity";0;"2020-12-29"
+1002;"energy";"ÖkoStrom 3";"electricity";"household_electricity";0;"2020-12-29"
+2001;"energy";"ÖkoGas 1";"gas";"universal";0;"2020-12-29"
+2002;"energy";"ÖkoGas 2";"gas";"universal";0;"2020-12-29"
+9001;"energy";"ÖkoTest A";"electricity";"household_electricity";1;"2020-12-02"

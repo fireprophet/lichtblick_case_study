@@ -1,0 +1,8 @@
+{
+  "__delimiter__": ";",
+  "pricecomponent": {
+    "suggested": "productcomponent",
+    "user_submitted": 1,
+    "pass_as_null": 0
+  }
+}
